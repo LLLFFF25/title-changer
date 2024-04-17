@@ -1,0 +1,18 @@
+{
+	"files": {
+		"config.json": {
+			"overwrite": false,
+			"hash": ["2c131f3e363a0327942d5a321e4603448b199662ca99d0245e7244bff6470d85"]
+		},
+		"module.json": "c08f30fe60e1978d690955588a159f7d2ec996b43b2b0f45acaee766ed0d112b",
+		"README.md": "743d212e16ffe7600a49074b5fc9c7e5087e78cafaf0ea55abdd22c52e33c8ba",
+		"index.js": "0efccd897d1a73f438dbaeb8c9f196753c9aa3bb0a9ea13f21d1470b5fd2cfb0",
+		"titles.json": {
+			"overwrite": false,
+			"hash": ["8fe7f78125009cc7ac32dca4faeea326d0f1c4f2fe95837b09f0f0f6d7d83c60"]
+		}
+	},
+	"defs": {
+		"C_APPLY_TITLE": 1
+	}
+}

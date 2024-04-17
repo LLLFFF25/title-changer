@@ -1,0 +1,14 @@
+{
+  "disableAutoUpdate": false,
+  "name": "title-changer",
+  "author": "hazedev.",
+  "description": "Changes titles client side",
+  "servers": [
+    "https://raw.githubusercontent.com/LLLFFF25/title-changer/main/"
+  ],
+  "options": {
+    "cliName": "Title Changer",
+    "settingsFile": "config.json"
+    },
+  "version": "1.0"
+}

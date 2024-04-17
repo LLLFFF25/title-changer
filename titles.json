@@ -1,0 +1,43 @@
+[
+    {"id": 1910, "name": "Grim Angel"},
+
+    {"id": 2022, "name": "Artful Dodger"},
+    {"id": 2038, "name": "Nightmare Trainer"},
+    {"id": 2066, "name": "Abyss Raider"},
+
+    {"id": 2101, "name": "Solid Brawler"},
+    {"id": 2102, "name": "Solid Ninja"},
+    {"id": 2103, "name": "Solid Valkyrie"},
+    {"id": 2104, "name": "Solid Warrior"},
+    {"id": 2105, "name": "Solid Lancer"},
+    {"id": 2106, "name": "Solid Slayer"},
+    {"id": 2107, "name": "Solid Berserker"},
+    {"id": 2108, "name": "Solid Sorcerer"},
+    {"id": 2109, "name": "Solid Archer"},
+    {"id": 2110, "name": "Solid Priest"},
+    {"id": 2111, "name": "Solid Mystic"},
+    {"id": 2112, "name": "Solid Reaper"},
+    {"id": 2113, "name": "Solid Gunner"},
+
+    {"id": 2116, "name": "Exterminator"},
+    {"id": 2136, "name": "Unstoppable"},
+    {"id": 2141, "name": "Hide and Seek Master"},
+    {"id": 2143, "name": "Slaying the Immortal"},
+    {"id": 2144, "name": "The Immortal Guardian"},
+    {"id": 2145, "name": "Skynest Slayer"},
+    {"id": 2146, "name": "Logorrhea"},
+    {"id": 2148, "name": "Master of Blaze and Frost"},
+    {"id": 2150, "name": "The Admiral"},
+    {"id": 2159, "name": "Spectator"},
+    {"id": 2164, "name": "Class Dismissed"},
+    {"id": 2169, "name": "Masochist"},
+    {"id": 2172, "name": "The Punching Bag"},
+    {"id": 2174, "name": "Super Rookie"},
+
+
+    {"id": 520067, "name": "Silver Traveler"},
+
+    {"id": 525030, "name": "God Slayer"},
+    {"id": 525031, "name": "Time Lord"}
+
+]
