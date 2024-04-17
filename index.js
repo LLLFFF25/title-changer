@@ -37,10 +37,12 @@ module.exports = function titlechanger(mod) {
 
     mod.game.on('enter_game', () => {
         if (chosenTitle == -1) return;
-
-        mod.send('S_APPLY_TITLE', 3, {
-            gameId: mod.game.me.gameId,
-            title: chosenTitle
-        });
+        // timeout 1.5 seconds so the title is applied after the client has loaded the title
+        setTimeout(() => {
+            mod.send('S_APPLY_TITLE', 3, {
+                gameId: mod.game.me.gameId,
+                title: chosenTitle
+            });
+        }, 1500);
     });
 }
